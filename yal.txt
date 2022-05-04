@@ -1,0 +1,3 @@
+Ip = sMPRISEN0ghQ.aternos.me
+Port = 50539
+Name = myhead
